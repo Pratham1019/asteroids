@@ -13,6 +13,9 @@ Destroy asteroids while avoiding collisions. Shoot incoming asteroids to split t
 - **Rotate**: `A` / `←` (left), `D` / `→` (right)
 - **Shoot**: `SPACE`
 
+## Screenshot
+![screenshot](./image.png)
+
 ## Features
 
 - Player-controlled triangle ship
